@@ -1,0 +1,10 @@
+{
+  "name": "asta",
+  "version": "1.0.0",
+  "description": "Asta AI",
+  "main": "app.js",
+  "repository": "https://github.com/majidnope/asta.git",
+  "author": "Muhammed Majid",
+  "license": "MIT",
+  "private": true
+}
